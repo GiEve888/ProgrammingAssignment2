@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## Almacenamiento de una Matriz inversa(crear una variable para que se pueda llamar)
 ## Crea la matriz invesrsa como objeto.
 
